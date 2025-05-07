@@ -1,0 +1,5 @@
+# Ignore all .DS_Store files
+**/.DS_Store
+
+# Ignore all rsconnect folders and their contents
+**/rsconnect/
